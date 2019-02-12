@@ -1,0 +1,14 @@
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.exe
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.deps.json
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.runtimeconfig.json
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.runtimeconfig.dev.json
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.dll
+C:\Users\Saurabh\Desktop\C++\myApp\bin\Release\netcoreapp2.1\win10-x64\myApp.pdb
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.csprojAssemblyReference.cache
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.AssemblyInfoInputs.cache
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.AssemblyInfo.cs
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.dll
+C:\Users\Saurabh\Desktop\C++\myApp\obj\Release\netcoreapp2.1\win10-x64\myApp.pdb
